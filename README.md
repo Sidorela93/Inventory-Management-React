@@ -23,7 +23,7 @@ This project is an inventory management system built with React and Redux. It al
 To clone and test the project on your machine:
 
 1.Clone the repo
-git clone https://github.com/sidorela93/Inventory-Management-sidorelatest.git
+git clone https://github.com/Sidorela93/Inventory-Management-React.git
 
 2.Install dependencies:
 npm install
